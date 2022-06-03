@@ -14,8 +14,8 @@ utilizando tecnologias simples como o HTML e o CSS, além de englobar os conceit
 ## Layout do projeto
 ![tecblog](https://user-images.githubusercontent.com/93053356/171489913-5510f02b-5520-4015-960f-20559c0e6878.PNG)
 
-## Sobre o DEV
-### Jardeylson jacinto cabral
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardeylson-jacinto-769769156)  
+## Meios de contato
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardeylson-jacinto-769769156)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jardeylsonjacinto/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jardeylsong.m@gmail.com)
 
