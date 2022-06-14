@@ -8,8 +8,8 @@ da udemy de um projeto web front-end. O objetivo do projeto foi criar uma site f
 utilizando tecnologias simples como o HTML e o CSS, além de englobar os conceitos de como estruturar e posicionar as tags HTML.
 
 ## Tecnologias usadas
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://www.w3schools.com/html/default.asp)
+![image](https://www.w3schools.com/css/default.asp)
 
 ## Layout do projeto
 ![tecblog](https://user-images.githubusercontent.com/93053356/171489913-5510f02b-5520-4015-960f-20559c0e6878.PNG)
